@@ -2,7 +2,8 @@
 
 <h2 align="left">
  <abc>
-  <br <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+<!--   <br <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> -->
+    <br <img src="https://github.com/pratham-ops/Bus-Ticket-Reservation/blob/main/Mentors_Connect_-_Jan_28th_IST.jpg" width="30"><br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -31,7 +32,8 @@
 <!-- - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=This+Project+is+Sponsored;And+promoted+by+PostMan; )](https://git.io/typing-svg)<br>
-<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
+<p align="center">
+<a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100"/> </a></p>
 
 <!-- <a  href="https://github.com/SP-XD">
 
