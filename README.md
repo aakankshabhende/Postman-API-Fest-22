@@ -1,11 +1,10 @@
 <!-- # Bus-Ticket-Reservation -->
 
 <h2 align="left">
- <abc>
+<!--  <abc> -->
 <!--   <br <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br> -->
-    <br <img src="https://github.com/pratham-ops/Bus-Ticket-Reservation/blob/main/Mentors_Connect_-_Jan_28th_IST.jpg" width="30"><br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://github.com/pratham-ops/Bus-Ticket-Reservation/blob/main/Mentors_Connect_-_Jan_28th_IST.jpg" alt="Coder GIF" width="100%">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Tech Stack used in developing Application:</h2>
